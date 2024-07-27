@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "createdAt": "19 December 2021",
+        "image": "https://cdn.pixabay.com/photo/2023/10/26/04/52/old-8341706_1280.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+        "user": {
+            "id": "u1",
+            "image": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=1060&t=st=1722098622~exp=1722099222~hmac=2bfa6cbf5e403aff1654f93590d0cb76aafe8a3b6ac194563082dfb26d8ff0bd",
+            "username": "noe4400"
+        },
+        "nofComments": 11,
+        "nofLikes": 34,
+        "comments": [
+            {
+                "id": "1",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "someuser"
+                }
+            },
+            {
+                "id": "2",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "someuser"
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "createdAt": "19 December 2021",
+        "image": "https://cdn.pixabay.com/photo/2016/10/16/07/29/the-eiffel-tower-1744574_1280.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+        "user": {
+            "id": "u1",
+            "image": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=1060&t=st=1722098622~exp=1722099222~hmac=2bfa6cbf5e403aff1654f93590d0cb76aafe8a3b6ac194563082dfb26d8ff0bd",
+            "username": "noe4400"
+        },
+        "nofComments": 11,
+        "nofLikes": 34,
+        "comments": [
+            {
+                "id": "1",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            },
+            {
+                "id": "2",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "createdAt": "19 December 2021",
+        "image": "https://cdn.pixabay.com/photo/2024/07/12/08/05/venice-8889871_1280.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+        "user": {
+            "id": "u1",
+            "image": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=1060&t=st=1722098622~exp=1722099222~hmac=2bfa6cbf5e403aff1654f93590d0cb76aafe8a3b6ac194563082dfb26d8ff0bd",
+            "username": "vadimnotjustdev"
+        },
+        "nofComments": 11,
+        "nofLikes": 34,
+        "comments": [
+            {
+                "id": "1",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            },
+            {
+                "id": "2",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "createdAt": "19 December 2021",
+        "image": "https://cdn.pixabay.com/photo/2023/11/16/22/35/church-8393259_1280.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+        "user": {
+            "id": "u1",
+            "image": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=1060&t=st=1722098622~exp=1722099222~hmac=2bfa6cbf5e403aff1654f93590d0cb76aafe8a3b6ac194563082dfb26d8ff0bd",
+            "username": "vadimnotjustdev"
+        },
+        "nofComments": 11,
+        "nofLikes": 34,
+        "comments": [
+            {
+                "id": "1",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            },
+            {
+                "id": "2",
+                "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+                "user": {
+                    "id": "u1",
+                    "username": "vadimnotjustdev"
+                }
+            }
+        ]
+    }
+]
